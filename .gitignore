@@ -1,0 +1,5 @@
+configuration.yml
+db.sqlite3
+notification.txt
+users_database.yml
+docker-compose.yml
