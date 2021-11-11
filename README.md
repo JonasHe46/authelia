@@ -1,4 +1,5 @@
-# Authelia
+# Authelia with Traefik
+You need to customize the config for your domain and infrastructure
 
 ## docker-compose
 ```
